@@ -1,0 +1,32 @@
+
+============================================================
+SECURITY INCIDENT REPORT
+============================================================
+
+Date: 14-09-2026
+
+Total Events: 334533
+Failed Logins: 237939
+Successful Logins: 96594
+Suspicious Activities: 144411
+
+Risk Level: HIGH
+
+Findings:
+
+- Multiple failed login attempts detected.
+- Port scanning activity observed.
+- Brute force attack attempts identified.
+- Geographical access anomalies detected.
+
+Recommendations:
+- Enable Multi-Factor Authentication (MFA).
+- Investigate brute force attack sources.
+- Review firewall and network security rules.
+- Monitor logins from unusual locations.
+- Monitor user activity regularly.
+- Block suspicious IP addresses.
+
+============================================================
+END OF REPORT
+============================================================
